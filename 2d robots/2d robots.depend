@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1506671926 source:c:\users\slugg\desktop\after ws\2d robots\feed.cpp
+	"2drobots.h"
+
+1506669285 source:c:\users\slugg\desktop\after ws\2d robots\main.cpp
+	"2drobots.h"
+
+1506674906 c:\users\slugg\desktop\after ws\2d robots\2drobots.h
+	<bits/stdc++.h>
+
+1506674130 source:c:\users\slugg\desktop\after ws\2d robots\robots.cpp
+	"2drobots.h"
+
+1506662056 source:c:\users\slugg\desktop\after ws\2d robots\stldeclare.cpp
+	"2drobots.h"
+
+1506671874 source:c:\users\slugg\desktop\after ws\2d robots\brain.cpp
+	"2drobots.h"
+
+1506674645 source:c:\users\slugg\desktop\after ws\2d robots\nature.cpp
+	"2drobots.h"
+
