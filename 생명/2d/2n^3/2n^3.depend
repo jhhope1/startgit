@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1506875665 source:c:\users\김재환\desktop\생명\2d\2n^3\main.cpp
+	"2drobots.h"
+
+1506904196 c:\users\김재환\desktop\생명\2d\2n^3\2drobots.h
+	<bits/stdc++.h>
+
+1506904022 source:c:\users\김재환\desktop\생명\2d\2n^3\brain.cpp
+	"2drobots.h"
+
+1506904196 source:c:\users\김재환\desktop\생명\2d\2n^3\2drobots.h
+	<bits/stdc++.h>
+
+1506778863 source:c:\users\김재환\desktop\생명\2d\2n^3\feed.cpp
+	"2drobots.h"
+
+1506871263 source:c:\users\김재환\desktop\생명\2d\2n^3\nature.cpp
+	"2drobots.h"
+
+1506828064 source:c:\users\김재환\desktop\생명\2d\2n^3\robots.cpp
+	"2drobots.h"
+
+1506771273 source:c:\users\김재환\desktop\생명\2d\2n^3\stldeclare.cpp
+	"2drobots.h"
+
+1506875596 source:c:\users\김재환\desktop\생명\2d\2n^3\weighttrain.cpp
+	"2drobots.h"
+
